@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saarth-12byte/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/saarth-12byte/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saarth-12byte/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+## String
+|  |
+| ------- |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/saarth-12byte/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 <!---LeetCode Topics End-->
