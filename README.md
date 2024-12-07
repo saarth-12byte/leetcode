@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saarth-12byte/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saarth-12byte/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saarth-12byte/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saarth-12byte/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Sorting
 |  |
 | ------- |
