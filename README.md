@@ -16,6 +16,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/saarth-12byte/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saarth-12byte/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/saarth-12byte/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [3427-special-array-ii](https://github.com/saarth-12byte/leetcode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/saarth-12byte/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saarth-12byte/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/saarth-12byte/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [3427-special-array-ii](https://github.com/saarth-12byte/leetcode/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/saarth-12byte/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/saarth-12byte/leetcode/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
